@@ -1,0 +1,32 @@
+[
+  {
+    "url": "HCC1395_tumor_chr17_demo.bam",
+    "indexURL": "HCC1395_tumor_chr17_demo.bam.bai",
+    "name": "HCC1395_tumor",
+    "format": "bam",
+    "colorBy": "strand",
+    "groupBy": "strand",
+    "height": 800,
+    "displayMode": "EXPANDED",
+    "visibilityWindow": -1,
+    "showSoftClipping": true,
+    "autoscale": true
+  },
+  {
+    "url": "HCC1395BL_normal_chr17_demo.bam",
+    "indexURL": "HCC1395BL_normal_chr17_demo.bam.bai",
+    "name": "HCC1395BL_normal",
+    "format": "bam",
+    "colorBy": "strand",
+    "groupBy": "strand",
+    "height": 800,
+    "displayMode": "EXPANDED",
+    "visibilityWindow": -1,
+    "showSoftClipping": true,
+    "autoscale": true
+  },
+  {"url": "refGene.txt.gz",
+    "name": "RefGene",
+    "format": "refgene"
+  }
+]
